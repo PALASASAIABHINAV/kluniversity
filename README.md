@@ -1,7 +1,4 @@
 # kluniversity
 this is my first repository
-abhinav-author
-hii sudharshan
-hii abhinav
-here i am sudharshan reddy
-
+Let's do the basic website check out this
+----->    https://digiswing.com/    <------- 
